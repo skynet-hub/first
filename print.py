@@ -1,2 +1,2 @@
-x = "papi" 
+x = input("enter name)
 print(x)
